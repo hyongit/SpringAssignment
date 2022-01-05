@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.error { color : red;
+	font-weight: bold; }
+	
+.formtable {
+	width:300px;
+	height:250px;
+	border:2px solid skyblue;
+}
+
+.label{
+	text-align:right;
+	vertical-align:center;
+}
+
+input[type=submit]:hover {
+	background-color:skyblue;	
+}

@@ -1,0 +1,11 @@
+@charset "EUC-KR";
+
+span{color: green;
+	font-weight: bold;
+}
+
+hr{border: thin solid #8080c0}
+
+.align-center{
+	text-align: center;
+}
